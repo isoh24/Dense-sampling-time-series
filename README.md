@@ -1,5 +1,5 @@
 # Dense-sampling-time-series
-Source codes and datasets for the paper entitled Dense Sampling of Time Series for Forecasting
+Source codes and datasets for the paper entitled Dense Sampling of Time Series for Forecasting (in IEEE Access revision)
 
 Four datasets are used for the experiments
 - Bitcoin price (BTC_USD_2018-01-01_2020-12-31-CoinDesk.csv)
